@@ -2,4 +2,4 @@
 1
 2
 3
-p wqsreg Weighted Quantile Sum (WQS) regression Use wqsreg With STATA 19
+p xtpcaus Panel Causality Tests Panel Fourier Toda Yamamoto (PFTY) Use xtpcaus With STATA 19
