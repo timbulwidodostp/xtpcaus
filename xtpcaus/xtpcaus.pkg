@@ -1,4 +1,6 @@
-D 'wqsreg': Weighted Quantile Sum (WQS) regression Use wqsreg With STATA 19
+D 'xtpcaus': Panel Causality Tests Panel Fourier Toda Yamamoto (PFTY) Use xtpcaus With STATA 19
 D
-F wqsreg.ado
-F wqsreg.sthlp
+F _xtpcaus_pfty.ado
+F _xtpcaus_pqc.ado
+F xtpcaus.ado
+F xtpcaus.sthlp
